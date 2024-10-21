@@ -10,6 +10,6 @@
 
 ## Contributing
 
-Got some time to spare? Contributions are always welcome! Feel free to raise issues or send in your pull requests. 
+Got some _**Time**_ to spare? Contributions are always welcome! Feel free to raise issues or send in your pull requests. 
 
 We love new travelers of _**Time**_ 🛸.
