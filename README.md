@@ -1,6 +1,6 @@
-# ⏳ TimeWaffle
+# ⏳ timeWaffle
 
-## Welcome to the TimeWaffle
+## Welcome to timeWaffle
 **timeWaffle** is a project dedicated to exploring the philosophical, theoretical, and practical dimensions of time. Through creative thinking, code, and community-driven projects, timeWaffle aims to deepen our understanding of how time impacts our lives and society. timeWaffle is your playground for everything _**Time**_-related, from philosophical musings to _**Time**_-based utilities. Join us as we unravel mysteries, one beat at a _**Time**_.
 
 ## Features
